@@ -1,0 +1,13 @@
+name: sci-nav-plot
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - numpy>=2.0,<3
+      - pandas>=2.2,<4
+      - matplotlib>=3.9,<4
+      - SciencePlots>=2.1,<3
+      - cycler>=0.12,<1
