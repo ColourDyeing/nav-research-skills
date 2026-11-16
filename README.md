@@ -1,10 +1,16 @@
 <div align="center">
 
-# nav-research-skills
+# 🛰️ nav-research-skills
 
 **面向导航领域的 AI Skills · 从科研绘图到学术表达**
 
-多源融合导航 / 定位与感知 / 科研可视化 / 研究协作
+🧭 多源融合导航　·　📡 定位与感知　·　📊 科研可视化　·　🤝 研究协作
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Skills-334155?style=flat-square" alt="AI Skills">
+  <img src="https://img.shields.io/badge/Focus-Navigation-0369a1?style=flat-square" alt="Focus: Navigation">
+  <img src="https://img.shields.io/badge/Research-Visualization-0f766e?style=flat-square" alt="Research Visualization">
+</p>
 
 以导航科研需求为起点，也适用于其他科研领域的数据展示、工程表达与工作衔接。
 
