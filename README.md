@@ -77,8 +77,6 @@ nav-reader 首次使用时按需在本机创建 `private/`，保存读者自己�
 
 ### nav-error-presentation · 误差图与三线表案例
 
-五个虚构静态站采用两套模拟精密单点定位（PPP）解。每列对应一个站，三行依次为东、北、天方向。蓝线和橙线分别表示两套解的逐历元误差，采样间隔为 1 分钟。下表使用每站全部 1,440 个共同历元（含初始化阶段），给出 E、N、U、水平和三维 RMSE。图表均使用厘米。
-
 ![五个虚构静态站的拟动态 PPP 模拟案例，含 ENU 误差折线组图和共同历元 RMSE 三线表](nav-error-presentation/assets/simulated-kinematic-ppp.png)
 
 ### 第三方技能原文
