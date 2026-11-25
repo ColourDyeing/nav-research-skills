@@ -1,0 +1,3 @@
+interface:
+  display_name: "Nav Error Presentation"
+  short_description: "将已有导航误差序列和统计数值排成英文误差图与三线表。"

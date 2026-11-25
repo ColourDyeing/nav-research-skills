@@ -1,5 +1,5 @@
 interface:
-  display_name: "工程学术插画"
+  display_name: "Nav Illustrations"
   short_description: "面向导航与工程学术汇报，制作单体场景插画、局部组合示意图和全页系统示意图"
   brand_color: "#356B8C"
   default_prompt: "使用 $nav-illustrations，为我的导航与工程学术汇报制作适配页面区域的插画或示意图，组合图中的文字和技术连线保持可编辑。"

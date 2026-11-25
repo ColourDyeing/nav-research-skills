@@ -1,0 +1,4 @@
+/private/*
+!/private/.gitkeep
+/profile.local.md
+/reading-history.local.md

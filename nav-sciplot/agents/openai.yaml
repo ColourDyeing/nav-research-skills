@@ -1,4 +1,4 @@
 interface:
-  display_name: "导航定位科研绘图"
+  display_name: "Nav SciPlot"
   short_description: "绘制可复现的轨迹、定位误差与 CDF 图，支持中英文样式及期刊尺寸配置"
   default_prompt: "使用 $nav-sciplot 根据我的导航实验数据绘图，核对统计口径，并输出图片、复现脚本及处理说明。"

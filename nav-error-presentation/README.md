@@ -1,4 +1,4 @@
-# 📊 navigation-error-presentation
+# 📊 nav-error-presentation
 
 **通用导航误差序列图与三线表的英文科研展示规范**
 

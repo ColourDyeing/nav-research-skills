@@ -1,0 +1,3 @@
+interface:
+  display_name: "Nav Reader"
+  short_description: "精读导航论文，生成带出处的精读卡，并在本机维护个人阅读档案。"
