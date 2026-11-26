@@ -20,8 +20,8 @@ import scienceplots  # noqa: F401: registers the SciencePlots styles
 MAX_WIDTH_CM = 15.9
 MAX_HEIGHT_CM = 24.5
 SINGLE_WIDTHS_CM = {'simple': 8.4, 'moderate': 12.9, 'dense': MAX_WIDTH_CM}
-COLORS = ('#0072B2', '#D55E00', '#009E73', '#CC79A7', '#E69F00', '#555555')
-LINESTYLES = ('-', '--', '-.', ':', '-', '--')
+COLORS = ('#005A9C', '#C43C39', '#007F73', '#70458F', '#AA621A', '#505050')
+LINESTYLES = ('-', '--', '-.', (0, (1.5, 1.1)), '-', (0, (6, 2, 1, 2, 1, 2)))
 
 
 @dataclass(frozen=True)
