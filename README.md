@@ -38,7 +38,7 @@
 | Skill | 简介 | 作者 / 归属 | 版本 |
 | :--- | :--- | :--- | :--- |
 | [find-skills](find-skills/SKILL.md) | 检索、比较和安装适合任务的技能，连接 Skills CLI 与技能生态 | **Vercel** · 第三方收录 | 以收录内容为准 |
-| [nav-sciplot](nav-sciplot/SKILL.md) | 基于 Matplotlib 与 SciencePlots 的导航科研绘图，支持中英文、自定义样式及 SVG / PDF / PNG 导出 | **ColourDyeing** · 自制 | **V2.0** · 2026-11-16 |
+| [nav-sciplot](nav-sciplot/SKILL.md) | 根据数据字段自动选绘轨迹、误差时序或经验分布，支持中英文论文组图、共享图例及 SVG / PDF / PNG 导出 | **ColourDyeing** · 自制 | **V2.1** · 2026-11-26 |
 | [nav-illustrations](nav-illustrations/SKILL.md) | 面向导航与工程研究的学术插画，覆盖单体场景、局部组合和全页系统示意图 | **ColourDyeing** · 自制 | **V2.0** · 2026-11-16 |
 | [nav-reader](nav-reader/SKILL.md) | 导航中英文文献精读，支持多种原文入口、单张 Markdown 精读卡、可通过调用实时更新**个人研究画像和文献阅读历史** | **ColourDyeing** · 自制 | **V1.0** · 2026-11-25 |
 | [nav-reasearch](nav-reasearch/SKILL.md) | 围绕指定方向编排快速入门书单，按阅读顺序串起经典代表作与近期前沿论文，附原文、入选依据和精读问题 | **ColourDyeing** · 自制 | **V1.0** · 2026-11-25 |
